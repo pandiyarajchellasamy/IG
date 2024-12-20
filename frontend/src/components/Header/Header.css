@@ -1,0 +1,17 @@
+.header-container {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-content h1 {
+  font-size: 2rem;
+  color: #eaeaea;
+  margin-bottom: 10px;
+}
+
+.header-content p {
+  font-size: 1rem;
+  color: #685c5c;
+}

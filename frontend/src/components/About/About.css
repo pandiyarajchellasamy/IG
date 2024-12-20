@@ -1,0 +1,16 @@
+.bgimg{
+    
+    background: url('../../assets/about1.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80vh;    
+    position: relative;
+}
+
+
+.bgimg .centered-text {
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
